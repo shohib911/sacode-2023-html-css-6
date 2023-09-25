@@ -1,0 +1,7 @@
+/* Universal Selector CSS */
+
+* {
+background-color: brown;
+color: #fff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

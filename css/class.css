@@ -1,0 +1,48 @@
+/* class selector */
+
+.bg-terang {
+    background-color: #ecf0f1;
+}
+
+.bg-gelap {
+    background-color: #2c3250;
+}
+
+.text-terang {
+    color:#ecf0f1 ;
+}
+
+.text-gelap {
+    color: #2c3250;
+}
+
+/* gaya font */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 24px;
+}
+
+footer {
+    background-color: #123e49;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #090909;
+}
+
+section {
+    padding: 20px;
+}
+
+h2{
+    font-size: 20px;
+    color: #123e49;
+    text-align: center;
+}
